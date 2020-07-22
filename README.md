@@ -13,3 +13,5 @@ Mendengarkan musik
 @r.galih_
 # LinkedIn
 Rakha Galih
+# Foto terbaik yang ada :)
+![35  Rakha Galih Nugraha Sukma (1)](https://user-images.githubusercontent.com/54633534/88153237-559b6d00-cc2f-11ea-8957-b9d3b73b685b.JPG)
