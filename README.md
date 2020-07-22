@@ -12,3 +12,4 @@ Mendengarkan musik
 # IG
 @r.galih_
 # LinkedIn
+Rakha Galih
